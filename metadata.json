@@ -1,0 +1,8 @@
+{
+  "name": "Estudio de Voz en Off con IA",
+  "description": "Una aplicación para generar guiones de narración con IA y convertirlos en audio para voz en off. Ideal para creadores de contenido y videos largos.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
